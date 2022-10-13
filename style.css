@@ -8,14 +8,17 @@
     transition: .5s ease-in;
 }
 
+body {
+    background: url(./images/bg.jpg);
+    background-size: cover;
+    background-position: right;
+}
+
 .content {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url(./images/bg.jpg);
-    background-size: cover;
-    background-position: right;
 }
 
 a {
