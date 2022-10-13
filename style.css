@@ -98,3 +98,21 @@ h2 {
 .logo i {
     font-size: 1.5rem;
 }
+
+/* Footer Section */
+
+.footer {
+    text-align: center;
+    padding: 15px;
+}
+
+.footer .footer-content p {
+    font-size: .7rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #fdeccc;
+}
+
+.footer .footer-content p a {
+    color: rgb(39, 152, 167);
+    font-weight: 600;
+}
